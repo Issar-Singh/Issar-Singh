@@ -16,7 +16,7 @@ I enjoy working with data end-to-end — from building datasets and cleaning dat
 ---
 
 ### ⭐ Featured Projects (Start Here)
-- **CipherSchools – Data Science Portfolio**  
+- **CipherSchools – Integrated Data Science & ML Training (with Capstone Project)**  
   Structured notebooks and projects covering Python, statistics, ML concepts, and Power BI dashboards  
   👉 https://github.com/Issar-Singh/CipherSchools
 
