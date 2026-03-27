@@ -1,49 +1,65 @@
-## Hi, I'm Issar Singh 👋
+# Hi, I'm Issar Singh 👋
 
-Computer Science (Co-op) undergraduate at the University of Lethbridge with a strong interest in  
-**Data Science, Analytics, and Data Engineering**.
+Computer Science (Co-op) undergraduate at the **University of Lethbridge** with a strong interest in **Data Science, Analytics, Data Engineering, and AI-assisted software development**.
 
-I enjoy working with data end-to-end — from building datasets and cleaning data to analyzing patterns and presenting insights through dashboards and reports.
+I enjoy working with data end-to-end — from cleaning and analyzing datasets to building dashboards, writing structured code, and creating practical projects that solve real problems. I’m also interested in how modern AI tools can improve software development workflows when used carefully and efficiently.
 
 ---
 
-### 🔍 What I’m Focused On
-- Data analysis using **Python (pandas)** and **SQL**
+## 🔍 What I’m Focused On
+
+- Data analysis using **Python** and **SQL**
 - Building dashboards with **Power BI**
 - Writing clean, well-documented code using **Git/GitHub**
-- Applying statistics and basic machine learning to real-world datasets
+- Applying statistics and machine learning to real-world datasets
+- Exploring **AI-assisted development** and agentic AI workflows
 
 ---
 
-### ⭐ Featured Projects (Start Here)
-- **CipherSchools – Integrated Data Science & ML Training (with Capstone Project)**  
-  Structured notebooks and projects covering Python, statistics, ML concepts, and Power BI dashboards  
-  👉 https://github.com/Issar-Singh/CipherSchools
+## ⭐ Featured Projects
 
-- **Customer Segmentation (Python)**  
-  Customer data analysis using clustering techniques to generate actionable insights  
-  *(part of CipherSchools portfolio)*
+### [CipherSchools – Integrated Data Science & ML Training](https://github.com/Issar-Singh/CipherSchools)
+Structured notebooks and projects covering Python, statistics, machine learning concepts, and Power BI dashboards, including a capstone project.
 
-- **COVID Database Management System (SQL + Python)**  
-  Relational database with CRUD operations, data analysis, and visualizations  
-  👉 https://github.com/Issar-Singh/covid-database-management
+### Customer Segmentation for Retail Store
+Customer data analysis project using clustering techniques to identify customer groups and generate actionable business insights.
 
----
+### [COVID Database Management System](https://github.com/Issar-Singh/covid-database-management)
+Relational database project with CRUD operations, SQL queries, data analysis, and visualizations using SQL and Python.
 
-### 🛠️ Technical Skills
-**Python (pandas, matplotlib)** • **SQL** • **Power BI** • **Excel**  
-**Git / GitHub / GitLab**  
-Data Cleaning • EDA • Visualization • Basic ML • Reporting
+### Mission Control
+A C++ card game project built using object-oriented programming and supported by AI-assisted development tools to improve iteration speed, code structure, and workflow efficiency.
+
+### The Last Explorer
+A group C++ text adventure game featuring puzzles, inventory, combat, and multiple environments. This project also reflects my practical use of AI-assisted coding tools in a step-by-step development workflow.
 
 ---
 
-### 📌 Currently
-- CS (Co-op) student actively building a strong data-focused portfolio
-- Open to **Data Science / Analytics / BI internships**
+## 🛠️ Technical Skills
+
+**Languages & Tools:**  
+Python, SQL, C++, Excel, Power BI, Git, GitHub, GitLab
+
+**Python Libraries:**  
+pandas, NumPy, matplotlib, scikit-learn
+
+**Data Skills:**  
+Data Cleaning, Exploratory Data Analysis, Data Visualization, Reporting, Basic Machine Learning
+
+**Other Areas:**  
+Object-Oriented Programming, Dashboard Development, AI-assisted Development Workflows
+
+---
+
+## 📌 Currently
+
+- CS (Co-op) student building a strong portfolio in **data, analytics, and software development**
+- Interested in **Data Science, Analytics, BI, Data Engineering, and AI-focused internships**
 - Open to relocation within Canada
 
 ---
 
-### 🔗 Links
-- LinkedIn: https://www.linkedin.com/in/issar-singh-68577b24b/
-- GitHub: https://github.com/Issar-Singh
+## 🔗 Links
+
+- **LinkedIn:** [issar-singh](https://www.linkedin.com/in/issar-singh-68577b24b/)
+- **GitHub:** [Issar-Singh](https://github.com/Issar-Singh)
